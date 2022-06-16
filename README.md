@@ -1,1 +1,1 @@
-# QiskitGlobalSummerSchool2022
+# Qiskit Global Summer School 2022
